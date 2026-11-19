@@ -63,4 +63,33 @@ PRODUCT INVENTORY
     Price: ₱32
     Status: Available
 
+
+SMALL SMALL INVENTORY
+
+INVENTORY FIELDS
+
+1. Product ID
+2. Product Name
+3. Category
+4. Quantity
+5. Unit Price
+
+FICTIONAL SAMPLE PRODUCTS
+
+Product 1:
+Product ID: P001
+Product Name: Golden Rice
+Category: Grocery
+Quantity: 50 kg
+Unit Price: ₱55.00
+
+Product 2:
+Product ID: P002
+Product Name: Sweet Coffee
+Category: Beverages
+Quantity: 30 packs
+Unit Price: ₱12.00
+
+END OF INVENTORY
+
 END OF INVENTORY
