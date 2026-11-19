@@ -1,0 +1,66 @@
+Project: Small Small Inventory
+Description: A simple inventory record for a small store.
+
+PRODUCT INVENTORY
+
+1. Product Name: Rice
+   Category: Grocery
+   Quantity: 50 kg
+   Price: ₱55
+   Status: Available
+
+2. Product Name: Sugar
+   Category: Grocery
+   Quantity: 25 kg
+   Price: ₱75
+   Status: Available
+
+3. Product Name: Coffee
+   Category: Beverages
+   Quantity: 30 packs
+   Price: ₱12
+   Status: Available
+
+4. Product Name: Instant Noodles
+   Category: Food
+   Quantity: 40 packs
+   Price: ₱15
+   Status: Available
+
+5. Product Name: Sardines
+   Category: Canned Goods
+   Quantity: 20 cans
+   Price: ₱28
+   Status: Available
+
+6. Product Name: Cooking Oil
+   Category: Grocery
+   Quantity: 15 bottles
+   Price: ₱45
+   Status: Available
+
+7. Product Name: Laundry Soap
+   Category: Household
+   Quantity: 18 pieces
+   Price: ₱25
+   Status: Available
+
+8. Product Name: Shampoo
+   Category: Personal Care
+   Quantity: 10 sachets
+   Price: ₱8
+   Status: Available
+
+9. Product Name: Biscuits
+   Category: Snacks
+   Quantity: 35 packs
+   Price: ₱10
+   Status: Available
+
+10. Product Name: Milk
+    Category: Beverages
+    Quantity: 12 cartons
+    Price: ₱32
+    Status: Available
+
+END OF INVENTORY
