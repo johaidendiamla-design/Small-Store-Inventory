@@ -90,4 +90,37 @@ Category: Beverages
 Quantity: 30 packs
 Unit Price: ₱12.00
 
+
+SMALL SMALL INVENTORY
+INVENTORY FIELDS
+
+1. Product ID
+   - Unique identification number of each product.
+
+2. Product Name
+   - The name of the product.
+
+3. Category
+   - The group or type of product.
+
+4. Quantity
+   - The available number of products in stock.
+
+5. Unit Price
+   - The price of one product.
+
+SAMPLE INVENTORY FIELDS
+
+Product ID: P001
+Product Name: Golden Rice
+Category: Grocery
+Quantity: 50 kg
+Unit Price: ₱55.00
+
+Product ID: P002
+Product Name: Sweet Coffee
+Category: Beverages
+Quantity: 30 packs
+Unit Price: ₱12.00
+
 END OF INVENTORY
