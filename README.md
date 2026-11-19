@@ -1,4 +1,4 @@
-Project Purpose
+This is my Project Purpose
 The purpose of the Small Small Inventory System is to help small business owners organize and manage their products efficiently.
 It aims to make tracking product quantities, monitoring available stocks, and managing inventory records easier and more convenient.
 
